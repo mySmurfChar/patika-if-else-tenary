@@ -1,0 +1,14 @@
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\bin\Debug\net8.0\patika-if-else-tenary.exe
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\bin\Debug\net8.0\patika-if-else-tenary.deps.json
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\bin\Debug\net8.0\patika-if-else-tenary.runtimeconfig.json
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\bin\Debug\net8.0\patika-if-else-tenary.dll
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\bin\Debug\net8.0\patika-if-else-tenary.pdb
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\obj\Debug\net8.0\patika-if-else-tenary.GeneratedMSBuildEditorConfig.editorconfig
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\obj\Debug\net8.0\patika-if-else-tenary.AssemblyInfoInputs.cache
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\obj\Debug\net8.0\patika-if-else-tenary.AssemblyInfo.cs
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\obj\Debug\net8.0\patika-if-else-tenary.csproj.CoreCompileInputs.cache
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\obj\Debug\net8.0\patika-if-else-tenary.dll
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\obj\Debug\net8.0\refint\patika-if-else-tenary.dll
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\obj\Debug\net8.0\patika-if-else-tenary.pdb
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\obj\Debug\net8.0\patika-if-else-tenary.genruntimeconfig.cache
+C:\işler\kelimeoop\patika-if-else-tenary\patika-if-else-tenary\obj\Debug\net8.0\ref\patika-if-else-tenary.dll
